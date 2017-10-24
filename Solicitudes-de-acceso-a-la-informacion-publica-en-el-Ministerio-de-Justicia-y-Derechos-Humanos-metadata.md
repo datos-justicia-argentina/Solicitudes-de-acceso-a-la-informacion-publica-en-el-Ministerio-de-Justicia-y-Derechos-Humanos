@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Solicitudes de Acceso a la Información Pública – Actualizado al AAAA-MM-DD
+### Solicitudes de acceso a la información pública – Actualizado al AAAA-MM-DD
 
 -   **Nombre:** solicitudes-acceso-informacion-publica-AAA-MM-DD.csv
 
