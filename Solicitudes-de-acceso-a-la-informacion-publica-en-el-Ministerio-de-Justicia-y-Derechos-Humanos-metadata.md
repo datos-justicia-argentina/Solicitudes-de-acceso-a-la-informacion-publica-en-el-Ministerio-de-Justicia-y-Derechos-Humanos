@@ -8,7 +8,7 @@ Características
 
 -   **Fecha de Primera** **Publicación: 24/10/2017**
 
--   **Tags o Etiquetas:** información pública, solicitud, despacho, DGGI, Ley 27275, transparencia
+-   **Tags o Etiquetas:** información pública, solicitudes, despacho, DGGI, Ley 27275, transparencia
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público
 
@@ -27,7 +27,7 @@ Recursos disponibles
 
 -   **Nombre:** solicitudes-acceso-informacion-publica-AAA-MM-DD.csv
 
--   **Descripción del contenido:** solicitudes de acceso a la información pública
+-   **Descripción del contenido:** contiene el detalle de las solicitudes de acceso a la información pública en el marco del Ministerio de Justicia y Derechos Humanos de la Nación
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
