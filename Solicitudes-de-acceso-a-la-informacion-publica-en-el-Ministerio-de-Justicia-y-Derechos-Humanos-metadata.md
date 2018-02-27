@@ -4,6 +4,9 @@ Solicitudes de Acceso a la Información Pública en el MJyDDHH de la Nación
 Este conjunto de datos contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil que solicita acceso a la información pública en el Ministerio de Justicia y Derechos Humanos de la Nación, bajo el amparo de la [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm), del 14/09/2016 y del [Decreto Nro. 1172/2003](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90763/norma.htm)
 
 
+Este conjunto de datos Contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil, que bajo el amparo de la [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm), del 14/09/2016, solicitan acceso a la información pública en las distintas mesas de entradas, tanto físicas como virtuales, en el marco del Ministerio de Justicia y Derechos Humanos.
+
+
 
 Características
 ---------------
