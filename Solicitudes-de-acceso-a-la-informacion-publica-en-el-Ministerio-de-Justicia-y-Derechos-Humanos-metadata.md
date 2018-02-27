@@ -9,6 +9,10 @@ Este conjunto de datos contiene las solicitudes generadas por todo aquel recurre
 
 
 
+[Decreto Nro. 1172/2003](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90763/norma.htm)
+
+
+
 http://datos.jus.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica-en-el-ministerio-de-justicia-y-derechos-humanos
 
 Características
