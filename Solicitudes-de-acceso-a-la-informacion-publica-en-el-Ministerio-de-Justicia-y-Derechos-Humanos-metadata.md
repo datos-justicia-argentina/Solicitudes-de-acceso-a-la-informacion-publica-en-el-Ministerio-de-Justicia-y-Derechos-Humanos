@@ -1,14 +1,16 @@
 Solicitudes de Acceso a la Información Pública en el MJyDDHH de la Nación
 =========================================================================
 
-Este conjunto de datos contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil que solicita acceso a la información pública en el Ministerio de Justicia y Derechos Humanos de la Nación, bajo el amparo de la [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm), del 14/09/2016 y del [Decreto Nro. 1172/2003](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90763/norma.htm)
+Este conjunto de datos contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil que solicita acceso a la información pública en el Ministerio de Justicia y Derechos Humanos de la Nación, bajo el amparo de la [Ley 27.275] (http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm), del 14/09/2016 y del [Decreto Nro. 1172/2003] (http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90763/norma.htm)
+
+http://datos.jus.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica-en-el-ministerio-de-justicia-y-derechos-humanos
 
 Características
 ---------------
 
 -   **Fecha de Primera** **Publicación: 24/10/2017**
 
--   **Tags o Etiquetas:** información pública, solicitudes, despacho, DGGI, Ley 27275, transparencia
+-   **Tags o Etiquetas:** información pública, solicitudes, despacho, DGGI, Ley 27.275, transparencia
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** solicitudes-acceso-informacion-publica-AAA-MM-DD.csv
 
--   **Descripción del contenido:** contiene el detalle de las solicitudes de acceso a la información pública en el marco del Ministerio de Justicia y Derechos Humanos de la Nación
+-   **Descripción del contenido:** se detallan las solicitudes de acceso a la información pública en el marco del Ministerio de Justicia y Derechos Humanos de la Nación
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
