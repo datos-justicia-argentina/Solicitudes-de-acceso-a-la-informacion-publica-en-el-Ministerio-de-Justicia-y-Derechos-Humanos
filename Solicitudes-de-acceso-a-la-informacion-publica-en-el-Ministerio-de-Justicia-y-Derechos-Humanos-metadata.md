@@ -34,7 +34,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado actualizado desde el año 2010 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -71,3 +71,5 @@ Decretos [1172/03](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-
 Decreto [117/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257755/norma.htm) – Plan de Apertura de Datos
 
 Decreto [746/2017](http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279940/norma.htm) – Creación de la Agencia de Acceso a la Información Pública
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 729 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-729-APN-MJ.pdf), del 14 de Septiembre de 2017.
