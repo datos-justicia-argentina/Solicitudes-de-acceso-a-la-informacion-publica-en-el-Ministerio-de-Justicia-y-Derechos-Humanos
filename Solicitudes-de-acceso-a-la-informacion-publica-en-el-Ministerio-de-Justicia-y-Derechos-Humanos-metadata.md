@@ -62,6 +62,14 @@ Recursos disponibles
 
 -   **observaciones_posteriores** **(String):** observaciones posteriores a la emisión de la respuesta
 
+### Solicitudes de acceso a la información pública – AAAA
+
+-   **Nombre:** solicitudes-acceso-informacion-publica-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm) - Derecho de Acceso a la Información Pública
