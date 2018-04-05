@@ -62,7 +62,7 @@ Recursos disponibles
 
 -   **observaciones_posteriores** **(String):** observaciones posteriores a la emisión de la respuesta
 
-### Solicitudes de acceso a la información pública – AAAA
+### Solicitudes de acceso a la información pública AAAA
 
 -   **Nombre:** solicitudes-acceso-informacion-publica-AAAA.zip
 
