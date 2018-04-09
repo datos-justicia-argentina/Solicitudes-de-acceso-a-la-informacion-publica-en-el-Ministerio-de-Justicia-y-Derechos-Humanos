@@ -34,7 +34,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado desde el año 2010 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** solicitudes de acceso a la información pública desde el año 2010 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
