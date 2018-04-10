@@ -42,6 +42,10 @@ Recursos disponibles
 
 -   **fecha_ingreso (date):** fecha en la que se generó la solicitud
 
+-   **fecha_primer_vencimiento (date):** fecha del primer vencimiento para que la solicitud sea cumplimentada. Esta no debe superar los quince (15) días hábiles desde la fecha en que se generó la solicitud
+
+-   **fecha_segundo_vencimiento (date):** fecha del segundo vencimiento para que la solicitud sea cumplimentada. Esta se puede prorrogar excepcionalmente quince (15) días hábiles desde la fecha del primer vencimiento
+
 -   **area_emisora (string):** área que da ingreso a la solicitud
 
 -   **genero_solicitante (string):** género del solicitante, toma los valores Masculino, Femenino, Transgénero y N/A
