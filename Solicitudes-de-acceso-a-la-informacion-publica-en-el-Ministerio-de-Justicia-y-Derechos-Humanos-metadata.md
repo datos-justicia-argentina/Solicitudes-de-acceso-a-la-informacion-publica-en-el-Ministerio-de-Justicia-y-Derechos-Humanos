@@ -44,7 +44,7 @@ Recursos disponibles
 
 -   **area_emisora (string):** área que da ingreso a la solicitud
 
--   **sexo_solicitante (string):** sexo del solicitante
+-   **genero_solicitante (string):** género del solicitante, toma los valores Masculino, Femenino, Transgénero y N/A
 
 -   **referencia_expediente (string):** texto descriptivo de la solicitud
 
