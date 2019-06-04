@@ -26,9 +26,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Solicitudes de acceso a la información pública – Actualizado al AAAA-MM-DD
+### Solicitudes de acceso a la información pública – AAAAMMDD
 
--   **Nombre:** solicitudes-acceso-informacion-publica-AAA-MM-DD.csv
+-   **Nombre:** solicitudes-acceso-informacion-publica-AAAMMDD.csv
 
 -   **Descripción del contenido:** se detallan las solicitudes de acceso a la información pública en el marco del Ministerio de Justicia y Derechos Humanos de la Nación
 
