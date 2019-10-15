@@ -78,8 +78,6 @@ Recursos disponibles
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-[Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm) - Derecho de Acceso a la Información Pública
-
 Decretos [1172/03](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90763/norma.htm) y [79/2017](http://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/271338/norma.htm) – Acceso a la Información Pública
 
 Decreto [117/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257755/norma.htm) – Plan de Apertura de Datos
