@@ -15,9 +15,9 @@ Características
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
 -   **Grupo:** Transparencia y anticorrupción
 
