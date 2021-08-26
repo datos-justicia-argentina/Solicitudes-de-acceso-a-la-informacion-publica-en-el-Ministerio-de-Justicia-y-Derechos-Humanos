@@ -13,7 +13,7 @@ Características
 
 -   **Tags o Etiquetas:** información pública, solicitudes, despacho, DGGI, Ley 27.275, transparencia
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Coordinación. Dirección de Despacho, Mesas de Entradas e Información al Público
 
