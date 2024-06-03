@@ -1,7 +1,7 @@
 Solicitudes de Acceso a la Información Pública en el MJyDDHH de la Nación
 =========================================================================
 
-Este conjunto de datos contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil, que bajo el amparo de la [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm), del 14/09/2016, solicitan acceso a la información pública en las distintas mesas de entradas, tanto físicas como virtuales, en el marco del Ministerio de Justicia y Derechos Humanos.
+Este conjunto de datos contiene las solicitudes generadas por todo aquel recurrente, ciudadano u organización civil, que bajo el amparo de la [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm), del 14/09/2016, solicitan acceso a la información pública en las distintas mesas de entradas, tanto físicas como virtuales, en el marco del Ministerio de Justicia.
 
 http://datos.jus.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica-en-el-ministerio-de-justicia-y-derechos-humanos
 
@@ -13,11 +13,11 @@ Características
 
 -   **Tags o Etiquetas:** información pública, solicitudes, despacho, DGGI, Ley 27.275, transparencia
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
 
 -   **Grupo:** Transparencia y anticorrupción
 
@@ -30,7 +30,7 @@ Recursos disponibles
 
 -   **Nombre:** solicitudes-acceso-informacion-publica-AAAMMDD.csv
 
--   **Descripción del contenido:** se detallan las solicitudes de acceso a la información pública en el marco del Ministerio de Justicia y Derechos Humanos de la Nación
+-   **Descripción del contenido:** se detallan las solicitudes de acceso a la información pública en el marco del Ministerio de Justicia de la Nación
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -84,4 +84,4 @@ Decreto [117/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/255000
 
 Decreto [746/2017](http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279940/norma.htm) – Creación de la Agencia de Acceso a la Información Pública
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 729 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-729-APN-MJ.pdf), del 14 de Septiembre de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 729 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-729-APN-MJ.pdf), del 14 de Septiembre de 2017.
