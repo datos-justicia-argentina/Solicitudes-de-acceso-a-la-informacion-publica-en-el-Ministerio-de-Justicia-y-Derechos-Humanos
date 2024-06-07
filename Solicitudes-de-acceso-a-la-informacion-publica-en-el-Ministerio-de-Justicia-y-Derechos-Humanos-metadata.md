@@ -13,11 +13,11 @@ Características
 
 -   **Tags o Etiquetas:** información pública, solicitudes, despacho, DGGI, Ley 27.275, transparencia
 
--   **Organización:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
--   **Autor:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
--   **Responsable:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección de Gestión Documental y Despacho
 
 -   **Grupo:** Transparencia y anticorrupción
 
